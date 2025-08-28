@@ -12,7 +12,7 @@ I am a student graduate from Seneca Polytechnic and studied in Computer Programm
 ## 🛠️ Skills:
 <p align="center">
   <a href="https://skillicons.dev">  
-     <img src="https://skillicons.dev/icons?i=cpp,c,unity,python,javascript,godot,html,css,sql,mongodb,react,express,node,vscode,git,github,blender,rider,zed&perline=10&theme=dark"/>
+     <img src="https://skillicons.dev/icons?i=cpp,c,unity,python,javascript,godot,html,css,sql,mongodb,react,express,node,vscode,git,github,blender,rider&perline=10&theme=dark"/>
   </a>
 </p>
 
