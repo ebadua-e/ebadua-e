@@ -1,6 +1,6 @@
 ## Hi there 👋 my name is Emmanuel Badua 
 
-I am a student graduate from Seneca Polytechnic and studied in Computer Programming, I am passionate in creativity and interested in learning more about programming, tech, and game development. <br>*
+I am a student graduate from Seneca Polytechnic and studied in Computer Programming, I am passionate in creativity and interested in learning more about programming, tech, and game development. <br>
 
 ### 🌱 I’m currently learning
 - Godot
@@ -30,15 +30,12 @@ I'm continually exploring my interest for what fits within the tech industry. I 
 Feel free to connect with me to each platform below if you want to reach-out or email me in gmail (emmanuelbadua13@gmail.com) :)
 
 ## 📫 How to reach me:
-<p align="center">
+<p>
   <a href="https://www.instagram.com/_emman.b._/">  
      <img src="https://skillicons.dev/icons?i=instagram&perline=10&theme=dark"/>
   </a>
   <a href="https://www.linkedin.com/in/emmanuel-badua-a46594313/">  
      <img src="https://skillicons.dev/icons?i=linkedin&perline=10&theme=dark"/>
-  </a>
-  <a href="https://devpost.com/emmanuelbadua13?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">  
-     <img src="https://skillicons.dev/icons?i=devpost&perline=10&theme=dark"/>
   </a>
 </p>
 <!--
