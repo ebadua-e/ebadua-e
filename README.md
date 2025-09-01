@@ -7,6 +7,8 @@ I am a student graduate from Seneca Polytechnic and studied in Computer Programm
 - Flax Engine (Using C++)
 - React
 - Blender
+- Java
+- Android Studio
 
 ### 🔭 I’m currently working on
 - "I, Remnent" (Dystopian Sci-Fi Shooter Game)
