@@ -7,7 +7,7 @@ I am a student graduate from Seneca Polytechnic and studied in Computer Programm
 - Flax Engine (Using C++)
 - React
 - Blender
-- Java
+- Kotlin
 - Android Studio
 
 ### 🔭 I’m currently working on
